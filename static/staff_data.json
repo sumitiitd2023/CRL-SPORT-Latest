@@ -1,0 +1,119 @@
+[
+  {
+    "staff_number": "210353",
+    "name": "HEMAVATHY MUTHUSAMY",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "throwball"
+    ]
+  },
+  {
+    "staff_number": "210462",
+    "name": "DR. RAMESH CHAVELI",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "throwball",
+      "tug_of_war"
+    ]
+  },
+  {
+    "staff_number": "213078",
+    "name": "K. SUMA REDDY",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "cricket_women"
+    ]
+  },
+  {
+    "staff_number": "216988",
+    "name": "PRADEEP KUMAR TIWARI",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "cricket_men"
+    ]
+  },
+  {
+    "staff_number": "212988",
+    "name": "VASUDEVA RAO PRASADULA",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "throwball"
+    ]
+  },
+  {
+    "staff_number": "210747",
+    "name": "NIDHI JAIN",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "throwball"
+    ]
+  },
+  {
+    "staff_number": "215785",
+    "indoor_games": [],
+    "outdoor_games": [
+      "cricket_women",
+      "throwball"
+    ],
+    "name": "SUMIT KUMAR"
+  },
+  {
+    "staff_number": "210986",
+    "name": "RAJASHEKHAR. N HIREKURABAR",
+    "indoor_games": [],
+    "outdoor_games": []
+  },
+  {
+    "staff_number": "215153",
+    "name": "MANJUNATHA D.R",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "throwball"
+    ]
+  },
+  {
+    "staff_number": "215760",
+    "name": "VENKATESWARLU NAIK B",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "cricket_women",
+      "throwball"
+    ]
+  },
+  {
+    "staff_number": "215759",
+    "name": null,
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "cricket_women"
+    ]
+  },
+  {
+    "staff_number": "215762",
+    "name": "VIGNESH S",
+    "indoor_games": [
+      "table_tennis"
+    ],
+    "outdoor_games": [
+      "throwball"
+    ]
+  }
+]

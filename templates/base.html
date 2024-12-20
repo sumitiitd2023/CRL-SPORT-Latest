@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Your Application Title</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #2c3e50, #4ca1af); /* Dark gradient background */
+            font-family: 'Roboto', sans-serif;
+            height: 100vh; /* Full height of the viewport */
+            display: flex;
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            margin: 0; /* Remove default margin */
+        }
+
+        .container {
+            max-width: 400px; /* Set consistent width */
+            width: 100%; /* Full width on small screens */
+            padding: 30px;
+            background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+            border-radius: 15px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+
+        .celebration-title {
+            color: #2980b9; /* Bright blue color for title */
+            font-size: 2.5em; /* Larger font size */
+            margin-bottom: 20px; /* Space below title */
+        }
+
+        .form-group label {
+            font-weight: bold;
+            color: #34495e; /* Dark grey color */
+        }
+
+        .form-control {
+            border-radius: 25px; /* Round input fields */
+            border: 2px solid #2980b9; /* Border color */
+            padding: 10px;
+            transition: border 0.3s ease; /* Smooth border transition */
+            background-color: #ecf0f1; /* Light background for inputs */
+            color: #34495e; /* Dark text for inputs */
+        }
+
+        .form-control:focus {
+            border-color: #3498db; /* Bright blue border color on focus */
+            box-shadow: 0 0 5px rgba(52, 152, 219, 0.5); /* Glow effect on focus */
+            outline: none; /* Remove default outline */
+        }
+
+        .btn-primary {
+            background-color: #2980b9; /* Bright blue button color */
+            border: none;
+            border-radius: 25px; /* Round button */
+            padding: 10px 20px;
+            transition: background-color 0.3s ease; /* Smooth background transition */
+            width: 100%; /* Full width for buttons */
+            color: white; /* White text */
+            font-weight: bold; /* Bold text */
+        }
+
+        .btn-primary:hover {
+            background-color: #3498db; /* Lighter blue on hover */
+            transform: scale(1.05); /* Slight grow effect */
+        }
+
+        .btn-secondary {
+            background-color: #e67e22; /* Secondary button color */
+            border: none;
+            border-radius: 25px; /* Round button */
+            padding: 10px 20px;
+            transition: background-color 0.3s ease; /* Smooth background transition */
+            width: 100%; /* Full width for buttons */
+            color: white; /* White text */
+            font-weight: bold; /* Bold text */
+            margin-top: 10px; /* Space between buttons */
+        }
+
+        .btn-secondary:hover {
+            background-color: #d35400; /* Darken button on hover */
+        }
+        {% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <ul>
+            {% for message in messages %}
+                <li>{{ message }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endwith %}
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        {% block content %}
+        {% endblock %}
+    </div>
+</body>
+</html>

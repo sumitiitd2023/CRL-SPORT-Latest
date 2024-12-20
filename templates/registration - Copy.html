@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Event Registration</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/fonts/icomoon/style.css">
+    <link rel="stylesheet" href="../static/css/bootstrap/bootstrap.css">
+    <link rel="stylesheet" href="../static/css/jquery-ui.css">
+    <link rel="stylesheet" href="../static/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../static/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../static/css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="../static/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="../static/fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="../static/css/aos.css">
+    <style>
+        body {
+    background-color: #fff9c4; /* Mild yellow background for the whole page */
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+}
+
+.site-navbar {
+    background-color: #81c784; /* Green background for the navbar */
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.site-navbar .site-logo img {
+    filter: brightness(0) saturate(100%) invert(22%) sepia(50%) saturate(3484%) hue-rotate(92deg) brightness(95%) contrast(88%);
+}
+
+.site-navbar a.nav-link {
+    color: #ffffff; /* White color for navbar links */
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.site-navbar a.nav-link:hover {
+    color: #2e7d32; /* Dark green for hover effect */
+}
+
+.hero {
+    background-color: #81c784; /* Green background for the hero section */
+    color: white;
+    text-align: center;
+    padding: 40px;
+    width: 100%;
+}
+
+.hero.overlay {
+    background: linear-gradient(rgba(129, 199, 132, 0.8), rgba(129, 199, 132, 0.8)), url('../static/images/bg_3.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.btn-primary {
+    background-color: #81c784; /* Green color for buttons */
+    border-color: #81c784;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.btn-primary:hover {
+    background-color: #4caf50; /* Darker green on hover */
+    border-color: #4caf50;
+}
+
+footer {
+    background-color: #81c784; /* Green footer */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #ffffff; /* White color for footer links */
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #2e7d32; /* Dark green for footer links on hover */
+}
+
+.registration-info {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.update-message {
+    color: #4caf50; /* Darker green message color */
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+    </style>
+</head>
+<body>
+    <div class="site-wrap">
+        <!-- Header -->
+        <header class="site-navbar py-4" role="banner">
+            <div class="container">
+                <div class="d-flex align-items-center">
+                    <div class="site-logo">
+                        <a href="index.html">
+                            <img src="images/logo.png" alt="Logo">
+                        </a>
+                    </div>
+                    <div class="ml-auto">
+                        <nav class="site-navigation position-relative text-right" role="navigation">
+                            <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                                <li class="active"><a href="/" class="nav-link">Home</a></li>
+                                <li><a href="/games" class="nav-link">Games</a></li>
+                                <li><a href="/gallery" class="nav-link">Rules</a></li>
+                                <li><a href="/contact" class="nav-link">Contact</a></li>
+                            </ul>
+                        </nav>
+                        <a href="#" class="d-inline-block d-lg-none site-menu-toggle js-menu-toggle text-black float-right text-white"><span class="icon-menu h3 text-white"></span></a>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Hero Section -->
+        <div class="hero overlay" style="background-image: url('../static/images/bg_3.jpg');">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-9 mx-auto text-center">
+                        <h1 class="text-white">Game Event Registration</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="site-section">
+            <div class="container">
+                <h2 class="text-center">Game Event Registration</h2>
+                <form action="/registration" method="post">
+                    <div class="form-group">
+                        <label for="staff_number">Staff Number:</label>
+                        <select name="staff_number" required class="form-control">
+                            {% for staff_number, staff_name in staff_names %}
+                                <option value="{{ staff_number }}">{{ staff_number }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Indoor Games:</label>
+                        <div class="games-container">
+                            <input type="checkbox" name="indoor_games" value="table_tennis"> Table Tennis
+                            <input type="checkbox" name="indoor_games" value="fun_game"> Fun Game
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Outdoor Games:</label>
+                        <div class="games-container">
+                            <input type="checkbox" name="outdoor_games" value="cricket_men"> Cricket Men
+                            <input type="checkbox" name="outdoor_games" value="cricket_women"> Cricket Women
+                            <input type="checkbox" name="outdoor_games" value="throwball"> Throwball
+                            <input type="checkbox" name="outdoor_games" value="volleyball"> Volleyball
+                            <input type="checkbox" name="outdoor_games" value="badminton"> Badminton
+                            <input type="checkbox" name="outdoor_games" value="tug_of_war"> Tug of War
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+
+                {% if user_info %}
+                    <div class="registration-info mt-4 p-4 bg-light">
+                        <h3>Registration Information:</h3>
+                        <p><strong>Staff Number:</strong> {{ user_info.staff_number }}</p>
+                        <p><strong>Staff Name:</strong> {{ user_info.name }}</p>
+                        <p><strong>Indoor Games:</strong> {% for game in user_info.indoor_games %} {{ game }}, {% endfor %}</p>
+                        <p><strong>Outdoor Games:</strong> {% for game in user_info.outdoor_games %} {{ game }}, {% endfor %}</p>
+                    </div>
+
+                    {% if updated %}
+                        <p class="update-message text-success mt-2">Registration information updated successfully!</p>
+                    {% endif %}
+
+                    <form action="/update" method="post" class="mt-3">
+                        <input type="hidden" name="staff_number" value="{{ user_info.staff_number }}">
+                        <button type="submit" class="btn btn-secondary">Update Registration</button>
+                    </form>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer-section py-4 bg-dark text-white">
+            <div class="container text-center">
+                <p>&copy; <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="#" target="_blank" class="text-white">CRL Sport Committee 2023</a></p>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="../static/js/jquery-3.3.1.min.js"></script>
+    <script src="../static/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="../static/js/jquery-ui.js"></script>
+    <script src="../static/js/popper.min.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
+    <script src="../static/js/owl.carousel.min.js"></script>
+    <script src="../static/js/jquery.stellar.min.js"></script>
+    <script src="../static/js/jquery.countdown.min.js"></script>
+    <script src="../static/js/bootstrap-datepicker.min.js"></script>
+    <script src="../static/js/jquery.easing.1.3.js"></script>
+    <script src="../static/js/aos.js"></script>
+    <script src="../static/js/jquery.fancybox.min.js"></script>
+    <script src="../static/js/jquery.sticky.js"></script>
+    <script src="../static/js/jquery.mb.YTPlayer.min.js"></script>
+    <script src="../static/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorlib Template</title>
+    <html lang="en">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #fffacd; /* Mild yellow background */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 500px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+
+        a {
+            color: #006400; /* Dark green */
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .btn {
+            background-color: #32CD32; /* Green buttons */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            display: block;
+            margin: 10px auto;
+            width: 150px; /* Equal dimensions for buttons */
+        }
+
+        .btn:hover {
+            background-color: #228B22; /* Darker green on hover */
+        }
+
+        img {
+            margin: 0 auto;
+            display: block;
+            width: 200px; /* Adjusted size */
+        }
+
+        .footer {
+            color: red;
+            font-size: 12px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="login-container">
+        <h2>Login</h2>
+
+        <!-- Display flash messages -->
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <div class="flash-message">
+                {{ messages[0] }}
+            </div>
+        {% endif %}
+        {% endwith %}
+
+        <form method="POST" action="{{ url_for('mainlogin') }}">
+            <label for="username">Username:</label>
+            <input type="text" name="username" required>
+
+            <label for="password">Password:</label>
+            <input type="password" name="password" required>
+
+            <button type="submit">Login</button>
+        </form>
+    </div>
+
+</head>
+<body>
+    <div class="container">
+        <a href="https://colorlib.com/wp/templates/">
+            <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/colorlib-push-logo.png" alt="Colorlib logo">
+        </a>
+        <h1>Thank you for using our template!</h1>
+        <p>For more awesome templates, please visit <strong><a href="https://colorlib.com/wp/templates/">Colorlib</a></strong>.</p>
+        <button class="btn">Learn More</button>
+        <button class="btn">Get Started</button>
+        <div class="footer">
+            <p><strong>Copyright information for the template can't be altered/removed unless you purchase a license.</strong></p>
+            <p><strong>Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).</strong></p>
+            <p><strong>More information about the license is available <a href="https://colorlib.com/wp/licence/">here</a>.</strong></p>
+        </div>
+    </div>
+</body>
+</html>

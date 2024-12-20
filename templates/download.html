@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ sport }} Game</title>
+    <style>
+        body {
+            background-color: #fff9e6; /* Mild yellow background */
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 20px 0;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .button {
+            background-color: green; /* Green button background */
+            color: white; /* White text */
+            padding: 15px 30px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 250px; /* Equal button width */
+            margin: 10px 0; /* Margin between buttons */
+        }
+
+        .button:hover {
+            background-color: darkgreen; /* Dark green on hover */
+        }
+
+        .download-link {
+            color: green;
+            text-decoration: none;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+
+        .download-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form action="/">
+            <button type="submit" class="button">Go Back to Home</button>
+        </form>
+        <h1>{{ sport }} Game</h1>
+        <ul>
+            {% for episode in episodes %}
+                <li>{{ episode.staff_number }} - {{ episode.name }}</li>
+            {% endfor %}
+        </ul>
+        <form action="/download_excel" method="post">
+            <input type="hidden" name="sport" value="{{ sport }}">
+            <button type="submit" class="button">Download Excel</button>
+        </form>
+        <a href="/team" class="download-link">Create teams</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>File Upload</title>
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #fff9c4; /* Mild yellow background */
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+            color: #388e3c; /* Green color for heading */
+        }
+
+        form {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+
+        label {
+            display: block;
+            margin-top: 15px;
+            font-size: 16px;
+            color: #388e3c; /* Green label color */
+        }
+
+        input[type="file"],
+        select,
+        button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #388e3c; /* Green border */
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        button,
+        .download-link {
+            display: inline-block;
+            background-color: #388e3c; /* Green button */
+            color: white;
+            border: none;
+            cursor: pointer;
+            text-align: center;
+            padding: 10px;
+            border-radius: 5px;
+            text-decoration: none; /* Remove underline for link */
+        }
+
+        button:hover,
+        .download-link:hover {
+            background-color: #2c6c2f; /* Darker green on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+<!--        <div>-->
+<!--            <a href="/download" class="download-link">Download User Data </a>-->
+<!--        </div>-->
+        <form action="/download">
+            <h2>Download User Data in Excel</h2>
+            <button type="submit">Download User Data</button>
+        </form>
+
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <h2>File Upload</h2>
+            <label for="images">Upload Images (multiple):</label>
+            <input type="file" id="images" name="images" accept="image/*" multiple>
+
+            <label for="text_file_name">Select Text File:</label>
+            <select id="text_file_name" name="text_file_name">
+                <option value="" selected disabled>Select a text file name</option>
+                {% for option in text_file_options %}
+                    <option value="{{ option }}">{{ option }}</option>
+                {% endfor %}
+            </select>
+
+            <label for="text_file">Upload Text File:</label>
+            <input type="file" id="text_file" name="text_file" accept=".txt, .pdf">
+
+            <button type="submit">Upload</button>
+        </form>
+
+        <form action="/">
+            <button type="submit">Go Back to Home</button>
+        </form>
+    </div>
+</body>
+</html>

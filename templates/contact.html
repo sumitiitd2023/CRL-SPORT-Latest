@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Soccer &mdash; Website by Colorlib</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="../static/fonts/icomoon/style.css">
+  <link rel="stylesheet" href="../static/google.css">
+  <link rel="stylesheet" href="../static/css/bootstrap/bootstrap.css">
+  <link rel="stylesheet" href="../static/css/jquery-ui.css">
+  <link rel="stylesheet" href="../static/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="../static/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../static/css/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="../static/css/bootstrap-datepicker.css">
+  <link rel="stylesheet" href="../static/fonts/flaticon/font/flaticon.css">
+  <link rel="stylesheet" href="../static/css/aos.css">
+  <link rel="stylesheet" href="../static/css/style.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='login.css') }}">
+
+  <style>
+  /* Fullscreen Hero Section */
+  .hero {
+    position: relative;
+    height: 100vh; /* Full screen height */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Position and style the contact table */
+  .contact-table-container {
+    background-color: rgba(255, 255, 255, 0.9); /* White background with transparency */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    width: 80%; /* Adjust width as needed */
+    max-width: 800px; /* Maximum width for larger screens */
+  }
+
+  /* Styling for the table */
+  .contact-table-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .contact-table-container th,
+  .contact-table-container td {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .contact-table-container th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+  }
+
+  .contact-table-container tr:hover {
+    background-color: #f1f1f1;
+  }
+
+  /* Admin Button Style */
+  .admin-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+  /* Navbar & Admin Button Styling */
+  .site-navbar {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+    width: 100%;
+  }
+
+  .site-navigation ul {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+  }
+
+  .site-navigation li {
+    margin-right: 20px;
+  }
+
+  .site-navigation a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .admin-btn {
+    margin-left: 20px;
+  }
+
+  /* Footer Section */
+  .footer-section {
+    clear: both; /* Clear floats */
+    padding: 40px 0;
+    background-color: #f8f9fa;
+  }
+
+  </style>
+
+</head>
+
+<body>
+
+  <div class="site-wrap">
+
+    <!-- Mobile menu -->
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+  <!-- Navbar -->
+<header class="site-navbar py-4" role="banner">
+  <div class="container">
+    <div class="d-flex flex-column align-items-end" style="height: 100%;"> <!-- Flex container with vertical arrangement -->
+      <nav class="site-navigation position-relative text-right" role="navigation">
+        <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-flex">
+          <li class="active">
+                <a href="/" class="nav-link"><strong style="color: #FF0000;">Home</strong></a>
+            </li>
+            <li>
+                <a href="/games" class="nav-link"><strong style="color: #FF0000;">Games</strong></a>
+            </li>
+            <li>
+                <a href="/gallery" class="nav-link"><strong style="color: #FF0000;">Gallery</strong></a>
+            </li>
+            <li>
+                <a href="/contact" class="nav-link"><strong style="color: #FF0000;">Contact</strong></a>
+            </li>
+        </ul>
+      </nav>
+      <div class="mt-auto"> <!-- Ensure the admin button stays at the bottom -->
+        <a href="/admin_login_page" class="admin-btn">Admin Use</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+    <!-- Hero Section with Contact Table -->
+    <div class="hero" style="background-image: url('../static/images/bg3.jpg');">
+      <div class="contact-table-container">
+        <table class="table custom-table">
+          <thead>
+            <tr>
+              <th>No.</th>
+              <th>Name</th>
+              <th>Role</th>
+              <th>Number</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td><strong>Shri.S.Sudhakar Sarma Lolla</strong></td>
+              <td>Chairman</td>
+              <td>12210</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td><strong>Shri.Ranjith T</strong></td>
+              <td>Member</td>
+              <td>12256</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td><strong>Shri.Kuchipudi Rathna Prsad</strong></td>
+              <td>Member</td>
+              <td>12514</td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td><strong>Shri.Shyamsundar Jha</strong></td>
+              <td>Member</td>
+              <td>12214</td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td><strong>Smt.DR.Apurva S Kittur</strong></td>
+              <td>Member</td>
+              <td>12222</td>
+            </tr>
+            <tr>
+              <td>6</td>
+              <td><strong>Shri.Boby Tyagi</strong></td>
+              <td>Member</td>
+              <td>12173</td>
+            </tr>
+            <tr>
+              <td>7</td>
+              <td><strong>Shri.Arun Rug Mukherjee</strong></td>
+              <td>Member Secretary</td>
+              <td>12153</td>
+            </tr>
+            <!-- Add remaining rows here -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+   <footer class="footer-section" style="background-color: black; padding: 10px 0; color: white;">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-md-12">
+        <div class="pt-2">
+          <p>
+            Copyright &copy;
+            <script>
+              document.write(new Date().getFullYear());
+            </script> All rights reserved | This template is made with <i class="icon-heart"
+              aria-hidden="true"></i> by <a href="#" target="_blank">CRL Sport Committee 2024</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <!-- Scripts -->
+  <script src="../static/js/jquery-3.3.1.min.js"></script>
+  <script src="../static/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="../static/js/jquery-ui.js"></script>
+  <script src="../static/js/popper.min.js"></script>
+  <script src="../static/js/bootstrap.min.js"></script>
+  <script src="../static/js/owl.carousel.min.js"></script>
+  <script src="../static/js/jquery.stellar.min.js"></script>
+  <script src="../static/js/jquery.countdown.min.js"></script>
+  <script src="../static/js/bootstrap-datepicker.min.js"></script>
+  <script src="../static/js/jquery.easing.1.3.js"></script>
+  <script src="../static/js/aos.js"></script>
+  <script src="../static/js/jquery.fancybox.min.js"></script>
+  <script src="../static/js/jquery.sticky.js"></script>
+  <script src="../static/js/jquery.mb.YTPlayer.min.js"></script>
+
+  <script src="../static/js/main.js"></script>
+</body>
+
+</html>

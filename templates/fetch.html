@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Episodes</title>
+    <style>
+        body {
+            background-color: #fff9e6; /* Mild yellow background */
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 30px;
+        }
+
+        form {
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        button, input[type="submit"] {
+            background-color: green; /* Green button background */
+            color: white; /* White text */
+            padding: 15px 30px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 250px; /* Equal button width */
+            margin: 10px 0; /* Margin between buttons */
+        }
+
+        button:hover, input[type="submit"]:hover {
+            background-color: darkgreen; /* Dark green on hover */
+        }
+
+        select {
+            padding: 10px;
+            font-size: 16px;
+            width: 250px; /* Same width as buttons */
+            margin: 10px 0;
+        }
+
+        label {
+            font-size: 18px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Select a Sport</h1>
+    <form action="/games">
+        <button type="submit">Go Back to Home</button>
+    </form>
+    <form action="/episodes" method="post">
+        <label for="sport">Choose a sport:</label>
+        <select id="sport" name="sport">
+            {% for sport in sports %}
+                <option value="{{ sport }}">{{ sport }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

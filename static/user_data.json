@@ -1,0 +1,2095 @@
+[
+  {
+    "CRL Staff List": 1,
+    "staff_num": 210462,
+    "name": "DR. RAMESH CHAVELI",
+    "designation": "PRINCIPAL SCIENTIST",
+    "department": "TA"
+  },
+  {
+    "CRL Staff List": 2,
+    "staff_num": 210466,
+    "name": "SHASHIKANT YASHWANT CHAUDHARI",
+    "designation": "PRINCIPAL SCIENTIST",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 3,
+    "staff_num": 210471,
+    "name": "BHARATHI MUTYA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 4,
+    "staff_num": 210479,
+    "name": "SAVITHA T",
+    "designation": "DEPUTY GENERAL MANAGER",
+    "department": "FAC & IP"
+  },
+  {
+    "CRL Staff List": 5,
+    "staff_num": 210653,
+    "name": "VIRENDRA KUMAR MITTAL",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 6,
+    "staff_num": 210736,
+    "name": "VELAYUTHAM T",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 7,
+    "staff_num": 210747,
+    "name": "NIDHI JAIN",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 8,
+    "staff_num": 210837,
+    "name": "DAMODAR V. KADABA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 9,
+    "staff_num": 210907,
+    "name": "S.SUDHAKARA SARMA LOLLA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 10,
+    "staff_num": 210943,
+    "name": "RANU TYAGI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 11,
+    "staff_num": 210957,
+    "name": "DR. VIJI PAUL PANAKKAL",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 12,
+    "staff_num": 210986,
+    "name": "RAJASHEKHAR. N HIREKURABAR",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 13,
+    "staff_num": 211318,
+    "name": "PRASAD KOTTE. DNVS",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 14,
+    "staff_num": 211397,
+    "name": "THILAGAVATHI V",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 15,
+    "staff_num": 211407,
+    "name": "DR. SUBHA P. ESWARAN",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 16,
+    "staff_num": 211442,
+    "name": "LANCY MATHEWS",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 17,
+    "staff_num": 211456,
+    "name": "SATISH KUMAR. PENMETSA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 18,
+    "staff_num": 211457,
+    "name": "RANJITH T",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 19,
+    "staff_num": 211474,
+    "name": "SAROJ BHARTI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 20,
+    "staff_num": 211511,
+    "name": "SATYANARAYANA VUTA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 21,
+    "staff_num": 211603,
+    "name": "RAMAKRISHNAN L",
+    "designation": "CHIEF SCIENTIST",
+    "department": "CRL/BG"
+  },
+  {
+    "CRL Staff List": 22,
+    "staff_num": 211606,
+    "name": "SAILAJA UNGATI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 23,
+    "staff_num": 211608,
+    "name": "ARCHANA C",
+    "designation": "DEPUTY ENGINEER/PUR",
+    "department": "PUR/CRL"
+  },
+  {
+    "CRL Staff List": 24,
+    "staff_num": 211613,
+    "name": "SIVA RAMA PRASAD PATHURI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 25,
+    "staff_num": 212092,
+    "name": "RAVI PRAKASH REDDY MALLIPEDDI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 26,
+    "staff_num": 212097,
+    "name": "SANTOSH KUMAR",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 27,
+    "staff_num": 212112,
+    "name": "KISHORE BACHINA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 28,
+    "staff_num": 212457,
+    "name": "DR.BASANTA KUMAR ROUL",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 29,
+    "staff_num": 212853,
+    "name": "MAMATHA G",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 30,
+    "staff_num": 212867,
+    "name": "SUBBA RAO YELLAMPALLAE. V",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 31,
+    "staff_num": 212889,
+    "name": "JYOTHESWAR JETTIPALLI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 32,
+    "staff_num": 212890,
+    "name": "MANJU PRIYA A",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 33,
+    "staff_num": 212892,
+    "name": "SION PERAMANGALATH",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 34,
+    "staff_num": 212924,
+    "name": "MEENAKSHI GHAI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 35,
+    "staff_num": 212988,
+    "name": "VASUDEVA RAO PRASADULA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 36,
+    "staff_num": 213065,
+    "name": "LEENA MAUNDEKAR",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 37,
+    "staff_num": 213078,
+    "name": "K. SUMA REDDY",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 38,
+    "staff_num": 213312,
+    "name": "SIVAKAMASUNDARI G",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 39,
+    "staff_num": 213323,
+    "name": "REVATHI .",
+    "designation": "MANAGER",
+    "department": "FIN/CRL"
+  },
+  {
+    "CRL Staff List": 40,
+    "staff_num": 213651,
+    "name": "VINOD NAIK",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 41,
+    "staff_num": 213991,
+    "name": "RAKESH M KADAM",
+    "designation": "MANAGER",
+    "department": "PUR/CRL"
+  },
+  {
+    "CRL Staff List": 42,
+    "staff_num": 214005,
+    "name": "DILLIBABU E",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 43,
+    "staff_num": 214007,
+    "name": "VENKATA SATYA SREEDHAR TENNETI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 44,
+    "staff_num": 214012,
+    "name": "HARIKRISHNA AVIRNENI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 45,
+    "staff_num": 214019,
+    "name": "SELVAKUMAR G",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 46,
+    "staff_num": 214020,
+    "name": "CHIRANJEEVI DAMACHERLA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 47,
+    "staff_num": 214021,
+    "name": "NAGARAJARAO PUTHALAPATTU",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 48,
+    "staff_num": 214048,
+    "name": "AMIT PRAKASH JAGTAP",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 49,
+    "staff_num": 214053,
+    "name": "SRINIVASA REDDY BASIREDDY",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 50,
+    "staff_num": 214059,
+    "name": "PRABHAVATHI MARIYAPPA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 51,
+    "staff_num": 214116,
+    "name": "PRATHIBHA B.T.",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 52,
+    "staff_num": 214134,
+    "name": "VIJAY BARAGUR",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 53,
+    "staff_num": 214174,
+    "name": "RAVISHANKAR BS",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 54,
+    "staff_num": 214382,
+    "name": "SNIGDHA MUKHERJEE",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 55,
+    "staff_num": 214389,
+    "name": "JOHN KRISHNA YARAGORLA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 56,
+    "staff_num": 214391,
+    "name": "RAMARAO RAMISETTY",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 57,
+    "staff_num": 214396,
+    "name": "ASHWANI KUMAR SONI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 58,
+    "staff_num": 214398,
+    "name": "Dr. SAPTA GIRISH BABU NEELAM",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 59,
+    "staff_num": 214403,
+    "name": "CHAITANYA PANDURANG UMBARE",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 60,
+    "staff_num": 214701,
+    "name": "VEMBUSELVI CHANDRAMOHAN",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 61,
+    "staff_num": 214702,
+    "name": "SAURABH ARABINDA SAMANTA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 62,
+    "staff_num": 214706,
+    "name": "SOWMYA S",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 63,
+    "staff_num": 214709,
+    "name": "SHIVAKUMAR BUYYA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 64,
+    "staff_num": 215147,
+    "name": "SACHITA SAHU",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 65,
+    "staff_num": 215148,
+    "name": "MUHAMMED AJEER VADIYIL KADAKKAL",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 66,
+    "staff_num": 215149,
+    "name": "PUSHPALATA T",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 67,
+    "staff_num": 215150,
+    "name": "SAYANTAN MUKHERJEE",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 68,
+    "staff_num": 215152,
+    "name": "NAGENDRA KUMAR MANGALI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 69,
+    "staff_num": 215153,
+    "name": "MANJUNATHA D.R",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 70,
+    "staff_num": 215154,
+    "name": "GANESH AKULA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 71,
+    "staff_num": 215158,
+    "name": "SUBHALAXMI RATH",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 72,
+    "staff_num": 215160,
+    "name": "VENKATESH PUTTA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 73,
+    "staff_num": 215166,
+    "name": "KUNAL MOHAN SADALKAR",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 74,
+    "staff_num": 215167,
+    "name": "ANKARAO ITTADI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 75,
+    "staff_num": 215169,
+    "name": "HARIBABU NIMMALA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 76,
+    "staff_num": 215170,
+    "name": "RAJEEV KUMAR ELUBUDI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 77,
+    "staff_num": 215175,
+    "name": "PRASANNA KULKARNI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 78,
+    "staff_num": 215176,
+    "name": "NAGURVALI SAYYAD",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 79,
+    "staff_num": 215751,
+    "name": "UDAY KUMAR URIMI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 80,
+    "staff_num": 215753,
+    "name": "PATIL SUHAS JINGOUNDA",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 81,
+    "staff_num": 215755,
+    "name": "VIJENDRA SHRIHARI BAGMARE",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 82,
+    "staff_num": 215756,
+    "name": "JAYDIP JAGATKISHOR JANI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 83,
+    "staff_num": 215760,
+    "name": "VENKATESWARLU NAIK B",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 84,
+    "staff_num": 215761,
+    "name": "KUSHAN CHAKRABORTY",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 85,
+    "staff_num": 215762,
+    "name": "VIGNESH S",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 86,
+    "staff_num": 215763,
+    "name": "HARI KRISHNA BOYAPATI",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 87,
+    "staff_num": 215764,
+    "name": "NERELLA ARUN MANI KUMAR",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 88,
+    "staff_num": 215765,
+    "name": "ANJU JOHN",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 89,
+    "staff_num": 215766,
+    "name": "RINNYMOL BABU",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 90,
+    "staff_num": 215767,
+    "name": "HYNDAVI RAPURU",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 91,
+    "staff_num": 215768,
+    "name": "SHEEJA S MANAKATTU",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 92,
+    "staff_num": 215770,
+    "name": "MALLIKHARJUNA RAO P",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 93,
+    "staff_num": 215772,
+    "name": "PRAVEEN JUJJURU V",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 94,
+    "staff_num": 215774,
+    "name": "RANJITH KUMAR V",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 95,
+    "staff_num": 215777,
+    "name": "SUBHADRA SINGH",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 96,
+    "staff_num": 215785,
+    "name": "SUMIT KUMAR",
+    "designation": "MEMBER SENIOR RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 97,
+    "staff_num": 216293,
+    "name": "RANJU ANN GEORGE",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 98,
+    "staff_num": 216294,
+    "name": "SANDEEP BOLLIKONDA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 99,
+    "staff_num": 216295,
+    "name": "SHRIKANT KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 100,
+    "staff_num": 216970,
+    "name": "UJJWALA MISHRA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 101,
+    "staff_num": 216971,
+    "name": "DIVYA N",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 102,
+    "staff_num": 216972,
+    "name": "YAMINI PIPARSANIYAN",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 103,
+    "staff_num": 216975,
+    "name": "JAYANTA DAS",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 104,
+    "staff_num": 216976,
+    "name": "NARESH SOTHUKU",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 105,
+    "staff_num": 216978,
+    "name": "FAHAD A.M",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 106,
+    "staff_num": 216980,
+    "name": "NEELABH KESHAV",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 107,
+    "staff_num": 216981,
+    "name": "DIVYA K.M",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 108,
+    "staff_num": 216982,
+    "name": "SHERIN BABU",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 109,
+    "staff_num": 216984,
+    "name": "DEBAPRIYA SEN",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 110,
+    "staff_num": 216985,
+    "name": "VEPURI PRASANNA VANI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 111,
+    "staff_num": 216986,
+    "name": "ANKIT SOHNI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 112,
+    "staff_num": 216987,
+    "name": "NAVEEN KUMAR. M",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 113,
+    "staff_num": 216988,
+    "name": "PRADEEP KUMAR TIWARI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 114,
+    "staff_num": 216989,
+    "name": "INDUMATHI. S",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 115,
+    "staff_num": 217000,
+    "name": "KARTHICK .D",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 116,
+    "staff_num": 217013,
+    "name": "ANUGU RATHNAKAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 117,
+    "staff_num": 217020,
+    "name": "MAYANK VISHWAKARMA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 118,
+    "staff_num": 217046,
+    "name": "JESINTHA BALA. C",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 119,
+    "staff_num": 217054,
+    "name": "AMITESH KUMAR SHARMA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 120,
+    "staff_num": 217057,
+    "name": "ANKITA JAIN",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 121,
+    "staff_num": 217090,
+    "name": "RAJANI SHAW",
+    "designation": "OFFICIAL LANGUAGE OFFICER",
+    "department": "OL/CRL"
+  },
+  {
+    "CRL Staff List": 122,
+    "staff_num": 217608,
+    "name": "THEJNA ROS JOSEPH",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 123,
+    "staff_num": 217610,
+    "name": "VANGUJAR MAYUR RAMBHAU",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 124,
+    "staff_num": 217614,
+    "name": "GRANDHI KARTHIK",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 125,
+    "staff_num": 217615,
+    "name": "MASTIK KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 126,
+    "staff_num": 217616,
+    "name": "VANAM BATHINA RAJ KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 127,
+    "staff_num": 217617,
+    "name": "POOJARI GANGADHAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 128,
+    "staff_num": 217620,
+    "name": "KRISHN KUMAR RAMANUJ",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 129,
+    "staff_num": 217621,
+    "name": "WASIM AHMED",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 130,
+    "staff_num": 217622,
+    "name": "SAYYAD SHAHWAZ ALI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 131,
+    "staff_num": 217624,
+    "name": "KAVITA SHRIVASTAVA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 132,
+    "staff_num": 217627,
+    "name": "VIKAS KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 133,
+    "staff_num": 217631,
+    "name": "MAYANK PRAKASH SINGH",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 134,
+    "staff_num": 217632,
+    "name": "HEMANT KUMAR VERMA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 135,
+    "staff_num": 217633,
+    "name": "KIRANMAYI PRASADA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 136,
+    "staff_num": 217634,
+    "name": "ABHILASHA BARLA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 137,
+    "staff_num": 217636,
+    "name": "LUNAVATH MAHESH",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 138,
+    "staff_num": 217637,
+    "name": "SWATHI PADIMI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 139,
+    "staff_num": 217638,
+    "name": "TARUN GOEL",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 140,
+    "staff_num": 217639,
+    "name": "DR. SIKANDAR KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 141,
+    "staff_num": 217641,
+    "name": "SHERRY GOMEZ",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 142,
+    "staff_num": 217661,
+    "name": "ANUKUL ANAND",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 143,
+    "staff_num": 217662,
+    "name": "KUCHIPUDI RATHNA PRASAD",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 144,
+    "staff_num": 217958,
+    "name": "SHYAMSUNDAR JHA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 145,
+    "staff_num": 218187,
+    "name": "DR. GAYATRI PARTHASARATHY",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 146,
+    "staff_num": 218192,
+    "name": "DR. SUBHASIS MANDAL",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 147,
+    "staff_num": 218196,
+    "name": "DR. APURVA S KITTUR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 148,
+    "staff_num": 218198,
+    "name": "DR. JOYDEB MANDAL",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 149,
+    "staff_num": 218206,
+    "name": "RAMYA PRASHASTHI",
+    "designation": "ACCOUNTS OFFICER",
+    "department": "FIN/CRL"
+  },
+  {
+    "CRL Staff List": 150,
+    "staff_num": 218224,
+    "name": "VARANASI KRISHNA PRIYA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 151,
+    "staff_num": 218225,
+    "name": "RAHUL SINGH",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 152,
+    "staff_num": 218226,
+    "name": "MACHNOORI BHAVANI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 153,
+    "staff_num": 218228,
+    "name": "PRASHANT KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 154,
+    "staff_num": 218229,
+    "name": "DINESH KUMAR KATHANIA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 155,
+    "staff_num": 218230,
+    "name": "AKHIL JOHNSON",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 156,
+    "staff_num": 218231,
+    "name": "KOTLA RUPASAMYUKTHA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 157,
+    "staff_num": 218232,
+    "name": "KETHA SIVA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 158,
+    "staff_num": 218233,
+    "name": "YEDHU SHALI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 159,
+    "staff_num": 218234,
+    "name": "YASHARTH SHUKLA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 160,
+    "staff_num": 218235,
+    "name": "ARCHIDEB SINHA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 161,
+    "staff_num": 218236,
+    "name": "K. REVATI SURESH",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 162,
+    "staff_num": 218237,
+    "name": "SUMEET MAHAJAN",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 163,
+    "staff_num": 218238,
+    "name": "DIBYAKANTI MAHAPATRA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 164,
+    "staff_num": 218239,
+    "name": "MANISH KUMAR PANDEY",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 165,
+    "staff_num": 218240,
+    "name": "MAITREYEE SINHA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 166,
+    "staff_num": 218241,
+    "name": "MD ASFANI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 167,
+    "staff_num": 218242,
+    "name": "KARIMPANAPUNCHAYIL ANU AYYAPPAN",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 168,
+    "staff_num": 218243,
+    "name": "SURABHI ASHOK BABU",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 169,
+    "staff_num": 218245,
+    "name": "ANIMESH GARG",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 170,
+    "staff_num": 218247,
+    "name": "KOMMURI HIMA BINDU",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 171,
+    "staff_num": 218248,
+    "name": "PAYAL THAKUR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 172,
+    "staff_num": 218249,
+    "name": "AKHILA KRISHNA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 173,
+    "staff_num": 218519,
+    "name": "SREENIVAS .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 174,
+    "staff_num": 218520,
+    "name": "SOUBHIK BARAL .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 175,
+    "staff_num": 218521,
+    "name": "MOHAN SINGH .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 176,
+    "staff_num": 218522,
+    "name": "NAKKINA GANESH SURYA HARSHA VARDHAN .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 177,
+    "staff_num": 218523,
+    "name": "RAYANA KRUPA SPANDAN RAJ .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 178,
+    "staff_num": 218524,
+    "name": "GUPTA TEJAS SUBHASHCHANDRA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 179,
+    "staff_num": 218525,
+    "name": "GULLIPALLI RAJESH KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 180,
+    "staff_num": 218527,
+    "name": "KILLA KISHORE BABU .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 181,
+    "staff_num": 218535,
+    "name": "MALI KANCHAN HANUMANT .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 182,
+    "staff_num": 218536,
+    "name": "AITIPAMULA VINEETH KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 183,
+    "staff_num": 218537,
+    "name": "PERAM SRAVANI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 184,
+    "staff_num": 218538,
+    "name": "UPPUTURI ASHOK KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 185,
+    "staff_num": 218540,
+    "name": "ANAND MOHAN TRIPATHI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 186,
+    "staff_num": 218883,
+    "name": "UDAY RAJ SINGH",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 187,
+    "staff_num": 218884,
+    "name": "PULAVARTY KUSUMA PRIYA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 188,
+    "staff_num": 218885,
+    "name": "YENIGALLA SAMYUKTHA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 189,
+    "staff_num": 218886,
+    "name": "BOBY TYAGI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 190,
+    "staff_num": 218887,
+    "name": "ANISH MISHRA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 191,
+    "staff_num": 218888,
+    "name": "ARUN RUG MUKHERJEE",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 192,
+    "staff_num": 218889,
+    "name": "KRISHNA ARVIND JOSHI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 193,
+    "staff_num": 218890,
+    "name": "AMAN KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 194,
+    "staff_num": 218891,
+    "name": "RUHUL IMAN",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 195,
+    "staff_num": 218892,
+    "name": "NAMAN KUMAR VERMA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 196,
+    "staff_num": 218893,
+    "name": "HENA SHIVHARE",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 197,
+    "staff_num": 218894,
+    "name": "SONAWANE ROHIT PRAKASH",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 198,
+    "staff_num": 218895,
+    "name": "ARNAB KARMAKAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 199,
+    "staff_num": 218896,
+    "name": "SUBA RAM",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 200,
+    "staff_num": 218897,
+    "name": "ROHITH SAI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 201,
+    "staff_num": 218898,
+    "name": "DUMRE PRAGATI GHANSHAM",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 202,
+    "staff_num": 218899,
+    "name": "NITIN KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 203,
+    "staff_num": 218900,
+    "name": "WARJURKAR ANKIT RAJENDRA",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 204,
+    "staff_num": 218901,
+    "name": "PUSHPAM BHARTI",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 205,
+    "staff_num": 218902,
+    "name": "NAMAN JAIN",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 206,
+    "staff_num": 218903,
+    "name": "SRIHARSHA NAG T S",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 207,
+    "staff_num": 218904,
+    "name": "DARAVATH HARI NAIK",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 208,
+    "staff_num": 218905,
+    "name": "SAURABH KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 209,
+    "staff_num": 218906,
+    "name": "SURLA DURGA PRASAD",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 210,
+    "staff_num": 218907,
+    "name": "BATULE PRASHANT DATTATRAY",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 211,
+    "staff_num": 218920,
+    "name": "YADAGINI NIRMAL VENKAT PRASAD",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 212,
+    "staff_num": 218921,
+    "name": "UTTAM KUMAR",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 213,
+    "staff_num": 218924,
+    "name": "BAHORIA RISHABH RAMNARAYAN .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 214,
+    "staff_num": 218925,
+    "name": "VIKAS KUMAR MAURYA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 215,
+    "staff_num": 218926,
+    "name": "SHAIREEN KHAN",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 216,
+    "staff_num": 218928,
+    "name": "HRUDAY SAI REGATTA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 217,
+    "staff_num": 219330,
+    "name": "SUSHANTA DATTA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 218,
+    "staff_num": 219331,
+    "name": "DANGETI TIRUMALA DURGA ARAVIND KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 219,
+    "staff_num": 219332,
+    "name": "ANKIT VAISHNO .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 220,
+    "staff_num": 219333,
+    "name": "ASHUTOSH GUPTA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 221,
+    "staff_num": 219334,
+    "name": "KILLANA RUSHI KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 222,
+    "staff_num": 219335,
+    "name": "KADARI ASHOK .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 223,
+    "staff_num": 219336,
+    "name": "PILLI VAMSIKRISHNA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 224,
+    "staff_num": 219337,
+    "name": "RISHI GUPTA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 225,
+    "staff_num": 219339,
+    "name": "MAYANK .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 226,
+    "staff_num": 219340,
+    "name": "PATEL KRUNALKUMAR PRAVINBHAI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 227,
+    "staff_num": 219341,
+    "name": "SUNIL KUMAR RAIDAS .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 228,
+    "staff_num": 219342,
+    "name": "ANANT TRIPATHI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 229,
+    "staff_num": 219343,
+    "name": "KRISHNAPAL SINGH YADAV .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 230,
+    "staff_num": 219344,
+    "name": "K. BHARAT KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 231,
+    "staff_num": 219345,
+    "name": "KAUSTUV MANDAL .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 232,
+    "staff_num": 219346,
+    "name": "PRAWANSHI SAHU .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 233,
+    "staff_num": 219347,
+    "name": "RAMAN PATEL .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 234,
+    "staff_num": 219348,
+    "name": "RUPAM BISWAS .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 235,
+    "staff_num": 219349,
+    "name": "PRAJYOT PRABHAKAR MOREY .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 236,
+    "staff_num": 219350,
+    "name": "KUMAR UTKARSH .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 237,
+    "staff_num": 219351,
+    "name": "KUNJAKISHORE MOHALIK .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 238,
+    "staff_num": 219352,
+    "name": "SWECHCHHA OJHA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 239,
+    "staff_num": 219353,
+    "name": "PRATIBHA JANGID .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 240,
+    "staff_num": 219354,
+    "name": "DOMINIK BRAHMA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 241,
+    "staff_num": 219355,
+    "name": "AMIT KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 242,
+    "staff_num": 219356,
+    "name": "PENTA SAI SREEJA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 243,
+    "staff_num": 219357,
+    "name": "DASIKONDA SAI SAKETH .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 244,
+    "staff_num": 219358,
+    "name": "GANESH NAIDU MARRAPU .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 245,
+    "staff_num": 219359,
+    "name": "M KRISHNA NAIK .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 246,
+    "staff_num": 219360,
+    "name": "YERROLLA PAVAN KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 247,
+    "staff_num": 219361,
+    "name": "SHASHVAT SHARMA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 248,
+    "staff_num": 219362,
+    "name": "GANVIT KETANKUMAR SHANKARBHAI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 249,
+    "staff_num": 219363,
+    "name": "DINESH KUMAR MIRCHE .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 250,
+    "staff_num": 219364,
+    "name": "SEEPANA VENKATA SAISURYA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 251,
+    "staff_num": 219365,
+    "name": "BOUROTHU ANIL KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 252,
+    "staff_num": 219366,
+    "name": "NITESH KUMAR MUDGAL .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 253,
+    "staff_num": 219367,
+    "name": "STANZIN YANGDOL .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 254,
+    "staff_num": 219368,
+    "name": "GUNNAMREDDY BHAVYA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 255,
+    "staff_num": 219369,
+    "name": "SREYOSHI GHOSH .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 256,
+    "staff_num": 219370,
+    "name": "THAMTAM SAI VARSHINI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 257,
+    "staff_num": 219371,
+    "name": "GARIKINA PRASANTHI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 258,
+    "staff_num": 219372,
+    "name": "NITIN KUMAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 259,
+    "staff_num": 219373,
+    "name": "MANDAPALLI MOUNIKA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 260,
+    "staff_num": 219374,
+    "name": "CHITYALA SWETHA REDDY .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 261,
+    "staff_num": 219375,
+    "name": "KURELLA DURGA RAO .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RSDP"
+  },
+  {
+    "CRL Staff List": 262,
+    "staff_num": 219376,
+    "name": "VARUN .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RFM"
+  },
+  {
+    "CRL Staff List": 263,
+    "staff_num": 219377,
+    "name": "NAMRATA MISHRA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 264,
+    "staff_num": 219378,
+    "name": "KONDEPATI DHANA SREE .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 265,
+    "staff_num": 219379,
+    "name": "MOHAMED FACIL .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 266,
+    "staff_num": 219380,
+    "name": "AMIT NAGARKOTI .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 267,
+    "staff_num": 219381,
+    "name": "ABHINAV SUDANSHU .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 268,
+    "staff_num": 219382,
+    "name": "BISHAL SONAR .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 269,
+    "staff_num": 219383,
+    "name": "DHURJATI PRASAD DAS .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 270,
+    "staff_num": 219384,
+    "name": "ADIPE TARUN SRI TEJA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 271,
+    "staff_num": 219385,
+    "name": "SACHIN KUMAR GOLA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 272,
+    "staff_num": 219386,
+    "name": "HAWA SINGH .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 273,
+    "staff_num": 219387,
+    "name": "CHAPPA NEEHARIKA .",
+    "designation": "MEMBER RESEARCH STAFF",
+    "department": "RCN"
+  },
+  {
+    "CRL Staff List": 274,
+    "staff_num": 219936,
+    "name": "BHOGADE VAIBHAV MOHAN .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 275,
+    "staff_num": 219937,
+    "name": "SURU PRIYANKA .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 276,
+    "staff_num": 219939,
+    "name": "RONAK PATIDAR .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 277,
+    "staff_num": 219940,
+    "name": "SUJEET KUMAR SINGH .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 278,
+    "staff_num": 219941,
+    "name": "MADHUNISHA .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 279,
+    "staff_num": 219942,
+    "name": "VAKADA G SAI SREE VAISHNAVI .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "AI & AS"
+  },
+  {
+    "CRL Staff List": 280,
+    "staff_num": 219943,
+    "name": "KULKARNI SHUBHANKAR SURENDRA .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "WSW"
+  },
+  {
+    "CRL Staff List": 281,
+    "staff_num": 219944,
+    "name": "CHINNAPAREDDY KRISHNA VAMSI .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 282,
+    "staff_num": 219945,
+    "name": "MANISH KUMAR .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 283,
+    "staff_num": 219946,
+    "name": "M.R. SOWJANYA .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 284,
+    "staff_num": 219948,
+    "name": "BODDETI VEDA AKSHARA .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "EOP"
+  },
+  {
+    "CRL Staff List": 285,
+    "staff_num": 219949,
+    "name": "ANKIT KUMAR .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 286,
+    "staff_num": 219950,
+    "name": "NAIR VAISHNAV UNNI .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 287,
+    "staff_num": 219951,
+    "name": "RAHUL J .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "ECS"
+  },
+  {
+    "CRL Staff List": 288,
+    "staff_num": 219952,
+    "name": "OMENDRA KUMAR LOT .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 289,
+    "staff_num": 219953,
+    "name": "PINGALE NILESH VITTHAL .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "CNS"
+  },
+  {
+    "CRL Staff List": 290,
+    "staff_num": 219954,
+    "name": "GUNDU SINDHU .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "EW"
+  },
+  {
+    "CRL Staff List": 291,
+    "staff_num": 219956,
+    "name": "SUBHAM BISWAS .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 292,
+    "staff_num": 219957,
+    "name": "KUNAL THOOL .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "SSP"
+  },
+  {
+    "CRL Staff List": 293,
+    "staff_num": 219958,
+    "name": "SHUBHAM KUMAR .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "WNN"
+  },
+  {
+    "CRL Staff List": 294,
+    "staff_num": 219959,
+    "name": "SUBEDAR CHAURASIYA .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "CDA"
+  },
+  {
+    "CRL Staff List": 295,
+    "staff_num": 219960,
+    "name": "SONEKAR NITIN PANDURANG .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 296,
+    "staff_num": 219961,
+    "name": "SAIKAT MONDAL .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "CSS"
+  },
+  {
+    "CRL Staff List": 297,
+    "staff_num": 219962,
+    "name": "MADASU MAHESWAR RAO .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "USR"
+  },
+  {
+    "CRL Staff List": 298,
+    "staff_num": 219963,
+    "name": "AMNAJASMIN .",
+    "designation": "MEMBER (RESEARCH STAFF)",
+    "department": "RWF"
+  },
+  {
+    "CRL Staff List": 299,
+    "staff_num": 219981,
+    "name": "HASANAPURAM GANESH .",
+    "designation": "ACCOUNTS OFFICER",
+    "department": "FIN/CRL"
+  }
+]

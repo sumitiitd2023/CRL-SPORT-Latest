@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #fff9c4; /* Mild yellow background */
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        .login-form {
+            background-color: #ffffff;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+            display: none;
+            margin-top: 20px;
+        }
+
+        .login-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #388e3c; /* Green border */
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .login-form input[type="submit"] {
+            background-color: #388e3c; /* Green button */
+            color: white;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            padding: 10px;
+        }
+
+        .login-form input[type="submit"]:hover {
+            background-color: #2c6b2f; /* Darker green on hover */
+        }
+
+        .login-form .close {
+            font-size: 30px;
+            color: #388e3c; /* Green close icon */
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+        }
+
+        .login-form .close:hover {
+            color: #2c6b2f; /* Darker green on hover */
+        }
+
+        button {
+            background-color: #388e3c; /* Green button */
+            border: none;
+            color: white;
+            padding: 12px 20px;  /* Adjust padding for consistent size */
+            text-align: center;
+            font-size: 16px;  /* Same font size for both buttons */
+            cursor: pointer;
+            border-radius: 5px;
+            margin: 10px 0;
+            width: 200px;  /* Set a fixed width for equal dimensions */
+        }
+
+        button:hover {
+            background-color: #2c6b2f; /* Darker green on hover */
+        }
+
+        .error {
+            color: #d32f2f; /* Red color for error messages */
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button onclick="toggleLoginForm()">Open Login Form</button>
+        <form action="/games">
+            <button type="submit">Go Back to Home</button>
+        </form>
+
+        <div id="loginForm" class="login-form">
+            <span onclick="closeLoginForm()" class="close" title="Close Login Form">×</span>
+            {% if error %}
+                <p class="error">Invalid login credentials. Please try again.</p>
+            {% endif %}
+            <form action="{{ url_for('admin_login') }}" method="post">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+
+                <input type="submit" value="Login">
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function toggleLoginForm() {
+            var loginForm = document.getElementById('loginForm');
+            loginForm.style.display = (loginForm.style.display === 'block') ? 'none' : 'block';
+        }
+
+        function closeLoginForm() {
+            document.getElementById('loginForm').style.display = 'none';
+        }
+    </script>
+</body>
+</html>
